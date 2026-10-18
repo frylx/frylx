@@ -1,6 +1,6 @@
 # Hello everyone 👋, i'm frylx
 
-🖥 **Fullstack Developer & Data Data Analyst Developer**
+🖥 **Fullstack Developer**
 
 I program websites and keep learning as I go.
 
